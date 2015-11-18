@@ -1,0 +1,9 @@
+<configuration name="opus.conf">
+    <settings>
+        <param name="use-vbr" value="0"/>
+        <param name="complexity" value="5"/>
+        <param name="maxaveragebitrate" value="0"/>
+        <param name="maxplaybackrate" value="16000"/>
+    </settings>
+</configuration>
+
